@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himadeep</h1>
-<img src="https://media.tenor.com/kjXMU4dl8lAAAAAC/hello-world.gif" alt="HW" width="500" height="500" align="right">
+<img src="https://media.tenor.com/kjXMU4dl8lAAAAAC/hello-world.gif" alt="HW" width="400" height="400" align="right">
 
 - 📫 How to reach me **himadeepthokala@gmail.com**
 
